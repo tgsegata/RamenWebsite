@@ -1,0 +1,19 @@
+{
+  "name": "assign4_japan",
+  "version": "1.0.0",
+  "description": "Japanese ramen restaurant",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "japanese",
+    "ramen"
+  ],
+  "author": "Tamires Segata",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
